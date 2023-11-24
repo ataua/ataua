@@ -1,11 +1,11 @@
 # ATAUÃ PINALI DOEDERLEIN  
-frontend web developer  
+Desenvolvedor Web Fullstack  
 `React`, `Javascript`, `Wordpress`, `Node`, `NextJS`
 
 Curitiba, PR - Brazil :brazil:  
 
 Data de nascimento: 28 de março, 1977  
-Celular / WhatsApp: +55-(41) 98865-2148  
+Celular / WhatsApp: +55 (41) 98865-2148  
 Email: [ataua.doederlein@gmail.com](ataua.doederlein@gmail.com)
 
 ## Histórico Acadêmico:
