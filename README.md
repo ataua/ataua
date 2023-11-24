@@ -1,3 +1,5 @@
+Conteúdo original: [https://github.com/ataua/ataua](https://github.com/ataua/ataua)
+
 # ATAUÃ PINALI DOEDERLEIN  
 Desenvolvedor Web Fullstack  
 `Javascript` | `Typescript` | `Node` | `ReactJS` | `NextJS` | `Wordpress` | `PHP`
@@ -6,7 +8,7 @@ Curitiba, PR - Brazil :brazil:
 
 Data de nascimento: 28 de março, 1977  
 Celular / WhatsApp: +55 (41) 98865-2148  
-Email: [ataua.doederlein@gmail.com](ataua.doederlein@gmail.com)
+Email: [ataua.doederlein@gmail.com](mailto:ataua.doederlein@gmail.com)
 
 ## Histórico Acadêmico:
 
@@ -48,7 +50,8 @@ Curitiba, PR, 2014
 - Inglês  
 Intermediário / técnico (Bom em leitura e escrita, médio
 em escuta e fala)  
-[Certificado ESET nível C2](www.efset.org/cert/52HEnt)
+[Certificado ESET nível C2](www.efset.org/cert/52HEnt)  
+
 ## Habilidades em Computação
 
 <table>
@@ -120,11 +123,13 @@ Funções: técnico bancário; caixa e tesoureiro eventual
     - Atividades financeiras (bancárias), incluindo atendimento ao cliente, vendas, caixa e rotinas de tesouraria - pagamentos e recebimentos, gerenciamento do cofre principal e caixas automáticos; gerenciamento de equipe
 
 ## Portfólio
-- https://github.com/ataua
-- https://gitlab.com/ataua_doederlein
-- https://serraverdeexpress.com.br/ (frontend)
-- https://stazione.com.br/ (frontend)
-- https://www.agendamento-delta.vercel.app (versão de testes)
+- [https://github.com/ataua](https://www.agendamento-delta.vercel.app)
+- [https://gitlab.com/ataua_doederlein](https://www.agendamento-delta.vercel.app)
+- [https://serraverdeexpress.com.br](https://www.agendamento-delta.vercel.app) (frontend)
+- [https://stazione.com.br](https://www.agendamento-delta.vercel.app) (frontend)
+- [https://www.agendamento-delta.vercel.app](https://www.agendamento-delta.vercel.app) (versão de testes)
 
 ## Redes Sociais
 - [LinkedIn](https://www.linkedin.com/in/ataua-doederlein/)
+
+<style>body {font-family: Belleza, sans-serif;}</style>
