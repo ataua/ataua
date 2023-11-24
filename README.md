@@ -1,6 +1,6 @@
 # ATAUÃ PINALI DOEDERLEIN  
 Desenvolvedor Web Fullstack  
-`React`, `Javascript`, `Wordpress`, `Node`, `NextJS`
+`Javascript` | `Typescript` | `Node` | `ReactJS` | `NextJS` | `Wordpress` | `PHP`
 
 Curitiba, PR - Brazil :brazil:  
 
@@ -33,7 +33,7 @@ Online, 2023 - 2026
 - Node.JS Básico (`Node`, `Express`, `Sequelize`, `MongoDB`,
 `Mongoose`)
 - Golang Básico (`Golang básico`, `Golang Avançado`, `OO com Golang`, `Golang para web`)
-- Docker
+- Docker  
 Online, 2022, 2023
 
 #### Kenzie Academy Brasil
@@ -97,7 +97,7 @@ em escuta e fala)
 
 - #### Desenvolvedor Web
     - Curitiba, PR, **2022 ~ atual**  
-    Desenvolvimento de sites e landing pages com NodeJs, NextJs, ReactJs, Wordpress
+    Desenvolvimento de sites e landing pages com `NodeJs`, `NextJs`, `ReactJs`, `Wordpress`, `PHP`, `Vercel`, `Gitlab`.
 
 - #### Designer 
     - Curitiba, PR, **2006 ~ atual**  
@@ -105,18 +105,18 @@ em escuta e fala)
 
 #### Páprica Comunicação
 - Curitiba, PR, **Maio/2021 - Outubro/2022**  
-Funções: Analista de sistemas (Desenvolvedor web front-end)
-    - Desenvolvimento de temas WordPress: novas funcionalidades, bem como suporte e atualização de código legado usando PHP, WordPress, Javascript, JQuery, Angular, React, etc.
-    - Otimização de velocidade de páginas da web, tamanho de imagens e outros recursos, revisão de código e otimização
+Funções: Analista de desenvolvimento (Desenvolvedor web front-end)
+    - Desenvolvimento de temas WordPress: novas funcionalidades, bem como suporte e atualização de código legado usando `PHP`, `WordPress`, `Javascript`, `JQuery`, `Angular`, `React`, etc.
+    - Otimização de velocidade de páginas da web, tamanho de imagens e outros recursos, revisão e otimização de código.
 
 #### Kenzie Academy Brasil 
 - Curitiba, PR, **Junho/2020 - Maio/2021**  
 Funções: Peer Coach
-    - Suporte à equipe pedagógica, orientação e resolução de dúvidas dos alunos, correção de exercícios de programação - conteúdo: HTML, CSS, SASS, GIT, JavaScript, React, Python, SCRUM
+    - Suporte à equipe pedagógica, orientação e resolução de dúvidas dos alunos, correção de exercícios de programação - conteúdo: `HTML`, `CSS`, `SASS`, `GIT`, `JavaScript`, `React`, `Python`, `SCRUM`.
     
 #### Caixa Econômica Federal 
 - Curitiba, PR, **Dezembro/2003 - Dezembro/2018**  
-Funções: auxiliar administrativo; caixa e tesoureiro eventual
+Funções: técnico bancário; caixa e tesoureiro eventual
     - Atividades financeiras (bancárias), incluindo atendimento ao cliente, vendas, caixa e rotinas de tesouraria - pagamentos e recebimentos, gerenciamento do cofre principal e caixas automáticos; gerenciamento de equipe
 
 ## Portfólio
