@@ -1,3 +1,4 @@
+<style>body {font-family: Belleza, sans-serif;}</style>
 Conteúdo original: [https://github.com/ataua/ataua](https://github.com/ataua/ataua)
 
 # ATAUÃ PINALI DOEDERLEIN  
@@ -131,5 +132,3 @@ Funções: técnico bancário; caixa e tesoureiro eventual
 
 ## Redes Sociais
 - [LinkedIn](https://www.linkedin.com/in/ataua-doederlein/)
-
-<style>body {font-family: Belleza, sans-serif;}</style>
