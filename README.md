@@ -1,3 +1,7 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Belleza&display=swap" rel="stylesheet">
+<main style='font-family: "Belleza", sans-serif;'>
 Conteúdo original: [https://github.com/ataua/ataua](https://github.com/ataua/ataua)
 
 # ATAUÃ PINALI DOEDERLEIN  
@@ -133,4 +137,4 @@ Funções: técnico bancário; caixa e tesoureiro eventual
 ## Redes Sociais
 - [LinkedIn](https://www.linkedin.com/in/ataua-doederlein/)
 
-<style>body {font-family: Belleza, sans-serif;}</style>
+</main>
