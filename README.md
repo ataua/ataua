@@ -2,7 +2,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Belleza&display=swap" rel="stylesheet">
 <main style='font-family: "Belleza", sans-serif;'>
-Conteúdo original: [https://github.com/ataua/ataua](https://github.com/ataua/ataua)
+Conteúdo original: [https://github.com/ataua](https://github.com/ataua)
 
 # ATAUÃ PINALI DOEDERLEIN  
 Desenvolvedor Web Fullstack  
@@ -31,23 +31,28 @@ Curitiba, PR, 2006 - 2010 (Interrompido)
 ## Qualificações e Atividades Profissionais
 
 #### XP Educação (IGTI) 
-- Bootcamp Desenvolvimento Node (`Node`, `Express`, `Sequelize`, `MongoDB`,
-`Mongoose`)    
+- Bootcamp Desenvolvimento Node  
+`Node` | `Express` | `Sequelize` | `MongoDB` |
+`Mongoose`  
 Online, 2023 - 2026
 
 #### Full Cycle / School of Net
-- Node.JS Básico (`Node`, `Express`, `Sequelize`, `MongoDB`,
-`Mongoose`)
-- Golang Básico (`Golang básico`, `Golang Avançado`, `OO com Golang`, `Golang para web`)
+- Node.JS Básico   
+`Node` | `Express` | `Sequelize` | `MongoDB` |
+`Mongoose`  
+- Golang Básico  
+`Golang básico` | `Golang Avançado` | `OO com Golang` | `Golang para web`  
 - Docker  
 Online, 2022, 2023
 
 #### Kenzie Academy Brasil
-- Desenvolvimento Web Full Stack (`GIT` - `SCRUM` - `JavascriptS` - `ReactJS` - `Python` - `Flask` - `Django`)  
+- Desenvolvimento Web Full Stack  
+`GIT` | `SCRUM` | `JavascriptS` | `ReactJS` | `Python` | `Flask` | `Django`  
 Curitiba, PR, 2020 - 2021
 
 #### NapTec 
-- Desenvolvimento Web (`HTML` - `CSS` - `JavaScript` - `JQuery` - `PHP` - `MySQL`)  
+- Desenvolvimento Web  
+`HTML` | `CSS` | `JavaScript` | `JQuery` | `PHP` | `MySQL`  
 Curitiba, PR, 2014
 
 ## Idiomas:
@@ -102,26 +107,34 @@ em escuta e fala)
 
 ### Freelancer
 
-- #### Desenvolvedor Web
-    - Curitiba, PR, **2022 ~ atual**  
-    Desenvolvimento de sites e landing pages com `NodeJs`, `NextJs`, `ReactJs`, `Wordpress`, `PHP`, `Vercel`, `Gitlab`.
+####    - Desenvolvedor Full Stack
+- Curitiba, PR, **2022 ~ atual**  
+    - Desenvolvimento de sites e landing pages
 
-- #### Designer 
-    - Curitiba, PR, **2006 ~ atual**  
-    Logotipos de empresas, papelaria institucional, cartazes para peças de teatro, criação de personagens, caricaturas, quadrinhos, páginas da web, tratamento de fotos e imagens analógicas e digitais
+`NodeJs` | `NextJs` | `ReactJs` | `Wordpress` | `PHP` | `Vercel` | `Gitlab`.
 
-#### Páprica Comunicação
+#### - Designer 
+- Curitiba, PR, **2006 ~ atual**  
+    - Logotipos de empresas, papelaria institucional, cartazes para peças de teatro, criação de personagens, caricaturas, quadrinhos, páginas da web, tratamento de fotos e imagens analógicas e digitais  
+
+`Krita` | `GIMP` | `Adobe Photoshop` | `Adobe Illustrator`
+
+### Páprica Comunicação
 - Curitiba, PR, **Maio/2021 - Outubro/2022**  
-Funções: Analista de desenvolvimento (Desenvolvedor web front-end)
-    - Desenvolvimento de temas WordPress: novas funcionalidades, bem como suporte e atualização de código legado usando `PHP`, `WordPress`, `Javascript`, `JQuery`, `Angular`, `React`, etc.
+Funções: Analista de desenvolvimento (Front End)
+    - Desenvolvimento de temas WordPress
     - Otimização de velocidade de páginas da web, tamanho de imagens e outros recursos, revisão e otimização de código.
 
-#### Kenzie Academy Brasil 
+`PHP` | `WordPress` | `Javascript` | `JQuery` | `Angular` | `React`, etc.
+
+### Kenzie Academy Brasil 
 - Curitiba, PR, **Junho/2020 - Maio/2021**  
 Funções: Peer Coach
-    - Suporte à equipe pedagógica, orientação e resolução de dúvidas dos alunos, correção de exercícios de programação - conteúdo: `HTML`, `CSS`, `SASS`, `GIT`, `JavaScript`, `React`, `Python`, `SCRUM`.
+    - Suporte à equipe pedagógica, orientação e resolução de dúvidas dos alunos, correção de exercícios de programação - conteúdo:  
+
+`HTML`, `CSS`, `SASS`, `GIT`, `JavaScript`, `React`, `Python`, `SCRUM`.
     
-#### Caixa Econômica Federal 
+### Caixa Econômica Federal 
 - Curitiba, PR, **Dezembro/2003 - Dezembro/2018**  
 Funções: técnico bancário; caixa e tesoureiro eventual
     - Atividades financeiras (bancárias), incluindo atendimento ao cliente, vendas, caixa e rotinas de tesouraria - pagamentos e recebimentos, gerenciamento do cofre principal e caixas automáticos; gerenciamento de equipe
