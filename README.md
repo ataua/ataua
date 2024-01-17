@@ -2,7 +2,8 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Belleza&display=swap" rel="stylesheet">
 <main style='font-family: "Belleza", sans-serif;'>
-Conteúdo original: [https://github.com/ataua](https://github.com/ataua)
+
+Conteúdo original: [https://github.com/ataua](https://github.com/ataua)  
 
 # ATAUÃ PINALI DOEDERLEIN  
 Desenvolvedor Web Fullstack  
