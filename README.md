@@ -63,45 +63,69 @@ em escuta e fala)
 
 ## Habilidades em Computação
 
-<table>
+<ul style='width:43rem;margin:2rem;border:1px solid blue;padding:1rem;'>
+<li style='display:inline-block;width:14rem;line-height:2.5'>Linux</li>
+<li style='display:inline-block;width:14rem;line-height:2.5;text-align:center;'>GIT</li>
+<li style='display:inline-block;width:14rem;line-height:2.5;text-align:right;'>Docker</li>
+<li style='display:inline-block;width:14rem;line-height:2.5;'>HTML</li>
+<li style='display:inline-block;width:14rem;line-height:2.5;text-align:center;'>CSS, SASS, SCSS</li>
+<li style='display:inline-block;width:14rem;line-height:2.5;text-align:right;'>CSS in JS, Styled Components</li>
+<li style='display:inline-block;width:14rem;line-height:2.5;'>JavaScript</li>
+<li style='display:inline-block;width:14rem;line-height:2.5;text-align:center;'>Typescript</li>
+<li style='display:inline-block;width:14rem;line-height:2.5;text-align:right;'>Jquery</li>
+<li style='display:inline-block;width:14rem;line-height:2.5;'>Node.js</li>
+<li style='display:inline-block;width:14rem;line-height:2.5;text-align:center;'>ReactJS, Redux</li>
+<li style='display:inline-block;width:14rem;line-height:2.5;text-align:right;'>Express, Sequelize</li>
+<li style='display:inline-block;width:14rem;line-height:2.5;'>MongoDB, Mongoose</li>
+<li style='display:inline-block;width:14rem;line-height:2.5;text-align:center;'>MySQL</li>
+<li style='display:inline-block;width:14rem;line-height:2.5;text-align:right;'>Postgres</li>
+<li style='display:inline-block;width:14rem;line-height:2.5;'>Python</li>
+<li style='display:inline-block;width:14rem;line-height:2.5;text-align:center;'>PHP</li>
+<li style='display:inline-block;width:14rem;line-height:2.5;text-align:right;'>WordPress</li>
+<li style='display:inline-block;width:14rem;line-height:2.5;'>Kanban, Trello, Runrun.it</li>
+<li style='display:inline-block;width:14rem;line-height:2.5;text-align:center;'>SCRUM</li>
+<li style='display:inline-block;width:14rem;line-height:2.5;text-align:right;'>Dotenv</li>
+</ul>
+
+<!-- <table>
 <tbody style='width: clamp(520px,80vw,640px);border-radius:8px;border:1px solid #ccc;padding:1.5rem; display:flex;flex-direction:column;gap:.5rem;align-items:stretch;'>
 <tr style='display:flex;justify-content:space-evenly;align-items:center;'>
-<td style='width:30%;'>Linux</td>
-<td style='width:30%;text-align:center;'>GIT</td>
-<td style='width:30%;text-align:right;'>Docker</td>
+<td style='width:33%;'>Linux</td>
+<td style='width:33%;text-align:center;'>GIT</td>
+<td style='width:33%;text-align:right;'>Docker</td>
 </tr>
 <tr style='display:flex;justify-content:space-evenly;height:fit-content;'>
-<td style='width:30%;'>HTML</td>
-<td style='width:30%;text-align:center;'>CSS, SASS, SCSS</td>
-<td style='width:30%;text-align:right;'>CSS in JS, Styled Components</td>
+<td style='width:33%;'>HTML</td>
+<td style='width:33%;text-align:center;'>CSS, SASS, SCSS</td>
+<td style='width:33%;text-align:right;'>CSS in JS, Styled Components</td>
 </tr>
 <tr style='display:flex;justify-content:space-evenly;'>
-<td style='width:30%;'>JavaScript</td>
-<td style='width:30%;text-align:center;'>Typescript</td>
-<td style='width:30%;text-align:right;'>Jquery</td>
+<td style='width:33%;'>JavaScript</td>
+<td style='width:33%;text-align:center;'>Typescript</td>
+<td style='width:33%;text-align:right;'>Jquery</td>
 </tr>
 <tr style='display:flex;justify-content:space-evenly;'>
-<td style='width:30%;'>Node.js</td>
-<td style='width:30%;text-align:center;'>ReactJS, Redux</td>
-<td style='width:30%;text-align:right;'>Express, Sequelize</td>
+<td style='width:33%;'>Node.js</td>
+<td style='width:33%;text-align:center;'>ReactJS, Redux</td>
+<td style='width:33%;text-align:right;'>Express, Sequelize</td>
 </tr>
 <tr style='display:flex;justify-content:space-evenly;'>
-<td style='width:30%;'>MongoDB, Mongoose</td>
-<td style='width:30%;text-align:center;'>MySQL</td>
-<td style='width:30%;text-align:right;'>Postgres</td>
+<td style='width:33%;'>MongoDB, Mongoose</td>
+<td style='width:33%;text-align:center;'>MySQL</td>
+<td style='width:33%;text-align:right;'>Postgres</td>
 </tr>
 <tr style='display:flex;justify-content:space-evenly;'>
-<td style='width:30%;'>Python</td>
-<td style='width:30%;text-align:center;'>PHP</td>
-<td style='width:30%;text-align:right;'>WordPress</td>
+<td style='width:33%;'>Python</td>
+<td style='width:33%;text-align:center;'>PHP</td>
+<td style='width:33%;text-align:right;'>WordPress</td>
 </tr>
 <tr style='display:flex;justify-content:space-evenly;'>
-<td style='width:30%;'>Kanban, Trello, Runrun.it</td>
-<td style='width:30%;text-align:center;'>SCRUM</td>
-<td style='width:30%;text-align:right;'>Dotenv</td>
+<td style='width:33%;'>Kanban, Trello, Runrun.it</td>
+<td style='width:33%;text-align:center;'>SCRUM</td>
+<td style='width:33%;text-align:right;'>Dotenv</td>
 </tr>
 </tbody>
-</table>
+</table> -->
 
 ## Experiência Profissional
 
