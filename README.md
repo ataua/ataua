@@ -144,6 +144,13 @@ em escuta e fala)
 
 `Krita` | `GIMP` | `Adobe Photoshop` | `Adobe Illustrator`
 
+### Estágio de Férias  
+- Curitiba, PR, **Janeiro/2024 ~ atual**  
+Funções: Desenvolvedor Back End (estágio voluntário)
+    - Desenvolvimento do back end do site da empresa  
+    
+`Postgres` | `NestJS` | `Prisma ORM` | `Typescript` | `Git` | `Jira` | `SCRUM`
+
 ### Páprica Comunicação
 - Curitiba, PR, **Maio/2021 - Outubro/2022**  
 Funções: Analista de desenvolvimento (Front End)
