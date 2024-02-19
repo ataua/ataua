@@ -171,7 +171,7 @@ Funções: Peer Coach
 Funções: técnico bancário; caixa e tesoureiro eventual
     - Atividades financeiras (bancárias), incluindo atendimento ao cliente, vendas, caixa e rotinas de tesouraria - pagamentos e recebimentos, gerenciamento do cofre principal e caixas automáticos; gerenciamento de equipe
 
-## Portfólio
+## Portfolio
 - [https://github.com/ataua](https://github.com/ataua)
 - [https://gitlab.com/ataua_doederlein](https://gitlab.com/ataua_doederlein)
 - [https://serraverdeexpress.com.br](https://serraverdeexpress.com.br) (frontend)
