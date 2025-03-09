@@ -131,7 +131,7 @@ em escuta e fala)
 ## Experiência Profissional
 
 ### Positivo Informática
-- Curitiba, PR, **Outubro/2024 ~ atual**  
+- Curitiba, PR, **Setembro/2024 ~ atual**  
 Funções: Agente de Suporte N1
     - Suporte técnico online  
     
