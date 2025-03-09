@@ -69,8 +69,8 @@ em escuta e fala)
 <li style='display:inline-block;width:14rem;line-height:2.5;text-align:center;'>GIT</li>
 <li style='display:inline-block;width:14rem;line-height:2.5;text-align:right;'>Docker</li>
 <li style='display:inline-block;width:14rem;line-height:2.5;'>HTML</li>
-<li style='display:inline-block;width:14rem;line-height:2.5;text-align:center;'>CSS, SASS, SCSS</li>
-<li style='display:inline-block;width:14rem;line-height:2.5;text-align:right;'>CSS in JS, Styled Components</li>
+<li style='display:inline-block;width:14rem;line-height:2.5;text-align:center;'>CSS, SASS, SCSS, CSS in JS</li>
+<li style='display:inline-block;width:14rem;line-height:2.5;text-align:right;'>Styled Components, Bootstrap, Tailwind</li>
 <li style='display:inline-block;width:14rem;line-height:2.5;'>JavaScript</li>
 <li style='display:inline-block;width:14rem;line-height:2.5;text-align:center;'>Typescript</li>
 <li style='display:inline-block;width:14rem;line-height:2.5;text-align:right;'>Jquery</li>
@@ -130,22 +130,27 @@ em escuta e fala)
 
 ## Experiência Profissional
 
-### Freelancer
+### Positivo Informática
+- Curitiba, PR, **Outubro/2024 ~ atual**  
+Funções: Agente de Suporte N1
+    - Suporte técnico online  
+    
+`Argumentação` | `Windows` | `Atendimento a cliente` 
 
-####    - Desenvolvedor Full Stack
+### Desenvolvedor Full Stack / Freelancer
 - Curitiba, PR, **2022 ~ atual**  
     - Desenvolvimento de sites e landing pages
 
 `NodeJs` | `NextJs` | `ReactJs` | `Wordpress` | `PHP` | `Vercel` | `Gitlab`.
 
-#### - Designer 
+### Designer / Freelancer
 - Curitiba, PR, **2006 ~ atual**  
     - Logotipos de empresas, papelaria institucional, cartazes para peças de teatro, criação de personagens, caricaturas, quadrinhos, páginas da web, tratamento de fotos e imagens analógicas e digitais  
 
 `Krita` | `GIMP` | `Adobe Photoshop` | `Adobe Illustrator`
 
 ### Estágio de Férias  
-- Curitiba, PR, **Janeiro/2024 ~ atual**  
+- Curitiba, PR, **Janeiro/2024 ~ Março/2024**  
 Funções: Desenvolvedor Back End (estágio voluntário)
     - Desenvolvimento do back end do site da empresa  
     
@@ -171,15 +176,9 @@ Funções: Peer Coach
 Funções: técnico bancário; caixa e tesoureiro eventual
     - Atividades financeiras (bancárias), incluindo atendimento ao cliente, vendas, caixa e rotinas de tesouraria - pagamentos e recebimentos, gerenciamento do cofre principal e caixas automáticos; gerenciamento de equipe
 
-## Portfolio
+## Links
+- [LinkedIn](https://www.linkedin.com/in/ataua-doederlein/)
 - [https://github.com/ataua](https://github.com/ataua)
 - [https://gitlab.com/ataua_doederlein](https://gitlab.com/ataua_doederlein)
-- [https://serraverdeexpress.com.br](https://serraverdeexpress.com.br) (frontend)
-- [https://stazione.com.br](https://stazione.com.br) (frontend)
-- [https://www.agendamento-delta.vercel.app](https://www.agendamento-delta.vercel.app) (versão de testes)
-- [https://escolachampagnat.com.br/](https://escolachampagnat.com.br/)
-
-## Redes Sociais
-- [LinkedIn](https://www.linkedin.com/in/ataua-doederlein/)
 
 </main>
